@@ -1,0 +1,2 @@
+# ForSynchronizing
+为了检验是否本地客户端与web数据能够同步
