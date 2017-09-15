@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 ﻿检查客户端与web的同步意义
 branch=follower，position=web；
 branch=follower，position=git；
+=======
+﻿检查客户端与web的同步意义，
+branch=master，position=web；
+branch=master，position=git；
+>>>>>>> master
