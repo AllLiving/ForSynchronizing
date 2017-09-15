@@ -1,2 +1,3 @@
-检查客户端与web的同步意义
+﻿检查客户端与web的同步意义
 branch=follower，position=web；
+branch=follower，position=git；
