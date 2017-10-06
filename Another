@@ -1,3 +1,25 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 清空
+=======
+﻿检查客户端与web的同步意义
+branch=follower，position=web；
+branch=follower，position=git；
+=======
+branch=master，position=web；
+branch=master，position=git；
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> follower
+新的核对点
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> follower
 ++++++++++++++
+=======
+>>>>>>> master
++
+=======
+++++++++++++++
+>>>>>>> master
