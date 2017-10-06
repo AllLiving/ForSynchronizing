@@ -10,4 +10,7 @@ branch=master，position=git；
 >>>>>>> master
 >>>>>>> follower
 新的核对点
+<<<<<<< HEAD
 ++++++++++++++
+=======
+>>>>>>> master
