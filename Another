@@ -11,7 +11,11 @@ branch=master，position=git；
 >>>>>>> follower
 新的核对点
 <<<<<<< HEAD
+<<<<<<< HEAD
 ++++++++++++++
 =======
 >>>>>>> master
 +
+=======
+++++++++++++++
+>>>>>>> master
